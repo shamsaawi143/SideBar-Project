@@ -52,7 +52,7 @@ SideBar-Project/
 Below is a preview of the project:
 
 ```
-assets/screenshot/sidebar-preview.png
+assets/screenshot.png
 ```
 
 (Add your actual screenshot image inside the `assets/screenshot` folder.)
@@ -64,7 +64,7 @@ assets/screenshot/sidebar-preview.png
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/SideBar-Project.git
+git clone https://github.com/shamsaawi143/SideBar-Project.git
 ```
 
 ### 2️⃣ Open the project
