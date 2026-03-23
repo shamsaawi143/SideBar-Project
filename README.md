@@ -3,13 +3,9 @@
 A modern and responsive Sidebar Navigation built using HTML, CSS, and JavaScript.
 This project demonstrates how to create a clean, interactive, and user-friendly sidebar menu suitable for dashboards, admin panels, and web applications.
 
----
-
 ## 📌 Overview
 
 The SideBar Project is designed to provide a smooth navigation experience with a collapsible and stylish sidebar layout. It can be easily integrated into different types of websites and customized according to project needs.
-
----
 
 ## ✨ Features
 
@@ -20,8 +16,6 @@ The SideBar Project is designed to provide a smooth navigation experience with a
 * ✅ Easy customization
 * ✅ Organized and readable code structure
 
----
-
 ## 🛠️ Technologies Used
 
 * HTML5
@@ -29,11 +23,8 @@ The SideBar Project is designed to provide a smooth navigation experience with a
 * JavaScript (Vanilla JS)
 * Font Awesome (for icons)
 
----
-
 ## 📂 Project Structure
 
-```
 SideBar-Project/
 │
 ├── assets/
@@ -43,9 +34,6 @@ SideBar-Project/
 ├── style.css
 ├── script.js
 └── README.md
-```
-
----
 
 ## 📸 Screenshot
 
@@ -57,23 +45,18 @@ Below is a preview of the project:
 
 ### 1️⃣ Clone the repository
 
-```bash
+bash
 git clone https://github.com/shamsaawi143/SideBar-Project.git
-```
 
 ### 2️⃣ Open the project
 
 Navigate to the project folder and open `index.html` in your browser.
-
----
 
 ## 🎯 How It Works
 
 * The sidebar can be toggled using a menu button.
 * CSS handles layout and animations.
 * JavaScript manages toggle functionality and interactive behavior.
-
----
 
 ## 🔧 Customization
 
@@ -86,16 +69,12 @@ You can easily customize:
 * Menu items and links
 * Favicon inside `assets/favicon`
 
----
-
 ## 📈 Future Improvements
 
 * Add dark/light mode toggle
 * Add multi-level dropdown menus
 * Improve accessibility (ARIA support)
 * Convert into a reusable component (React or Vue version)
-
----
 
 ## 👨‍💻 Author
 
