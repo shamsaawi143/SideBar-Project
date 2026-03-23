@@ -52,7 +52,7 @@ SideBar-Project/
 Below is a preview of the project:
 
 ```
-assets/screenshot.png
+![sideBar-Project Screenshot](assets/Screenshot.png)
 ```
 
 (Add your actual screenshot image inside the `assets/screenshot` folder.)
